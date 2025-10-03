@@ -8,7 +8,7 @@ It shows how to build a simple **AI-powered API** that analyzes text and returns
 ## 🚀 Features
 
 - REST API built with **.NET 8 Web API**
-- **Python ML model** for sentiment classification (scikit-learn)
+- **Python ML model** for sentiment classification (scikit-learn, PyTorch)
 - Integration between .NET and Python
 
 ---
@@ -16,7 +16,7 @@ It shows how to build a simple **AI-powered API** that analyzes text and returns
 ## 🛠 Tech Stack
 
 - **Backend:** .NET 8 (C#)  
-- **Machine Learning:** Python 3.13, scikit-learn, joblib  
+- **Machine Learning:** Python 3.13, scikit-learn, joblib  , PyTorch
 - **API Testing:** Thunder Client or PowerShell 
 - **Version Control:** Git + GitHub
 

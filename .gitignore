@@ -1,0 +1,34 @@
+# .NET build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+*.pt
+*.pkl
+
+# Dataset (optional: only if you don't want to push large CSVs)
+# sentiment_dataset_*.csv
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
